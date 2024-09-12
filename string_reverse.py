@@ -1,5 +1,5 @@
 #taking a blank input string
-input = """ 			     			  	  		 	  	 		 			  			 	    	 	     	   	  	    	  				  	 		  	 	  	      			 			 		 				 			  	  		 		   		  	    	   	   	 	  	"""
+ʙ_ = """ 			     			  	  		 	  	 		 			  			 	    	 	     	   	  	    	  				  	 		  	 	  	      			 			 		 				 			  	  		 		   		  	    	   	   	 	  	"""
 length = 0   
 def еval(str):
     return len(str)
